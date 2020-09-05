@@ -1,0 +1,12 @@
+/Users/baristikir/datastructures-algorithms/datastructure-queue/bin/Debug/net5.0/datastructure-queue.deps.json
+/Users/baristikir/datastructures-algorithms/datastructure-queue/bin/Debug/net5.0/datastructure-queue.runtimeconfig.json
+/Users/baristikir/datastructures-algorithms/datastructure-queue/bin/Debug/net5.0/datastructure-queue.runtimeconfig.dev.json
+/Users/baristikir/datastructures-algorithms/datastructure-queue/bin/Debug/net5.0/datastructure-queue.dll
+/Users/baristikir/datastructures-algorithms/datastructure-queue/bin/Debug/net5.0/datastructure-queue.pdb
+/Users/baristikir/datastructures-algorithms/datastructure-queue/obj/Debug/net5.0/datastructure-queue.csprojAssemblyReference.cache
+/Users/baristikir/datastructures-algorithms/datastructure-queue/obj/Debug/net5.0/datastructure-queue.AssemblyInfoInputs.cache
+/Users/baristikir/datastructures-algorithms/datastructure-queue/obj/Debug/net5.0/datastructure-queue.AssemblyInfo.cs
+/Users/baristikir/datastructures-algorithms/datastructure-queue/obj/Debug/net5.0/datastructure-queue.csproj.CoreCompileInputs.cache
+/Users/baristikir/datastructures-algorithms/datastructure-queue/obj/Debug/net5.0/datastructure-queue.dll
+/Users/baristikir/datastructures-algorithms/datastructure-queue/obj/Debug/net5.0/datastructure-queue.pdb
+/Users/baristikir/datastructures-algorithms/datastructure-queue/obj/Debug/net5.0/datastructure-queue.genruntimeconfig.cache
