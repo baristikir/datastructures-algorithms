@@ -1,0 +1,12 @@
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/bin/Debug/net5.0/sortalgorithm-bubblesort.deps.json
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/bin/Debug/net5.0/sortalgorithm-bubblesort.runtimeconfig.json
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/bin/Debug/net5.0/sortalgorithm-bubblesort.runtimeconfig.dev.json
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/bin/Debug/net5.0/sortalgorithm-bubblesort.dll
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/bin/Debug/net5.0/sortalgorithm-bubblesort.pdb
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/obj/Debug/net5.0/sortalgorithm-bubblesort.csprojAssemblyReference.cache
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/obj/Debug/net5.0/sortalgorithm-bubblesort.AssemblyInfoInputs.cache
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/obj/Debug/net5.0/sortalgorithm-bubblesort.AssemblyInfo.cs
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/obj/Debug/net5.0/sortalgorithm-bubblesort.csproj.CoreCompileInputs.cache
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/obj/Debug/net5.0/sortalgorithm-bubblesort.dll
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/obj/Debug/net5.0/sortalgorithm-bubblesort.pdb
+/Users/baristikir/datastructures-algorithms/sortalgorithm-bubblesort/obj/Debug/net5.0/sortalgorithm-bubblesort.genruntimeconfig.cache
