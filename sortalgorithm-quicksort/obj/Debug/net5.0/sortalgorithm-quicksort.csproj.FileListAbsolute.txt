@@ -1,0 +1,12 @@
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/bin/Debug/net5.0/sortalgorithm-quicksort.deps.json
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/bin/Debug/net5.0/sortalgorithm-quicksort.runtimeconfig.json
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/bin/Debug/net5.0/sortalgorithm-quicksort.runtimeconfig.dev.json
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/bin/Debug/net5.0/sortalgorithm-quicksort.dll
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/bin/Debug/net5.0/sortalgorithm-quicksort.pdb
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/obj/Debug/net5.0/sortalgorithm-quicksort.csprojAssemblyReference.cache
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/obj/Debug/net5.0/sortalgorithm-quicksort.AssemblyInfoInputs.cache
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/obj/Debug/net5.0/sortalgorithm-quicksort.AssemblyInfo.cs
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/obj/Debug/net5.0/sortalgorithm-quicksort.csproj.CoreCompileInputs.cache
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/obj/Debug/net5.0/sortalgorithm-quicksort.dll
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/obj/Debug/net5.0/sortalgorithm-quicksort.pdb
+/Users/baristikir/datastructures-algorithms/sortalgorithm-quicksort/obj/Debug/net5.0/sortalgorithm-quicksort.genruntimeconfig.cache
