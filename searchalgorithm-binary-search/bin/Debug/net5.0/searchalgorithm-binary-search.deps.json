@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "searchalgorithm-binary-search/1.0.0": {
+        "runtime": {
+          "searchalgorithm-binary-search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "searchalgorithm-binary-search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

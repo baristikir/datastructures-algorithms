@@ -1,0 +1,12 @@
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/bin/Debug/net5.0/searchalgorithm-binary-search.deps.json
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/bin/Debug/net5.0/searchalgorithm-binary-search.runtimeconfig.json
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/bin/Debug/net5.0/searchalgorithm-binary-search.runtimeconfig.dev.json
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/bin/Debug/net5.0/searchalgorithm-binary-search.dll
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/bin/Debug/net5.0/searchalgorithm-binary-search.pdb
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/obj/Debug/net5.0/searchalgorithm-binary-search.csprojAssemblyReference.cache
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/obj/Debug/net5.0/searchalgorithm-binary-search.AssemblyInfoInputs.cache
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/obj/Debug/net5.0/searchalgorithm-binary-search.AssemblyInfo.cs
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/obj/Debug/net5.0/searchalgorithm-binary-search.csproj.CoreCompileInputs.cache
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/obj/Debug/net5.0/searchalgorithm-binary-search.dll
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/obj/Debug/net5.0/searchalgorithm-binary-search.pdb
+/Users/baristikir/datastructures-algorithms/searchalgorithm-binary-search/obj/Debug/net5.0/searchalgorithm-binary-search.genruntimeconfig.cache

@@ -16,7 +16,7 @@ int linear_search(int list[], int e)
     for (int i = 0; i < sizeof(list); i++) {
         // Check if the searched number is equal to list element
         if (list[i] == e ) {
-            // Output Index of the searched number inside the array
+            // Output of index from searched number inside the array
             return i;
         }
     }
