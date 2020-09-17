@@ -1,0 +1,12 @@
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/bin/Debug/net5.0/unknownalgorithm-2.deps.json
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/bin/Debug/net5.0/unknownalgorithm-2.runtimeconfig.json
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/bin/Debug/net5.0/unknownalgorithm-2.runtimeconfig.dev.json
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/bin/Debug/net5.0/unknownalgorithm-2.dll
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/bin/Debug/net5.0/unknownalgorithm-2.pdb
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/obj/Debug/net5.0/unknownalgorithm-2.csprojAssemblyReference.cache
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/obj/Debug/net5.0/unknownalgorithm-2.AssemblyInfoInputs.cache
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/obj/Debug/net5.0/unknownalgorithm-2.AssemblyInfo.cs
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/obj/Debug/net5.0/unknownalgorithm-2.csproj.CoreCompileInputs.cache
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/obj/Debug/net5.0/unknownalgorithm-2.dll
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/obj/Debug/net5.0/unknownalgorithm-2.pdb
+/Users/baristikir/datastructures-algorithms/unknownalgorithm-2/obj/Debug/net5.0/unknownalgorithm-2.genruntimeconfig.cache

@@ -12,7 +12,7 @@ namespace searchalgorithm_binary_search
 
             if(binaryPos >= 0)
             {
-                System.Console.WriteLine("Gefunden bei:" + binaryPos + ". Wert: " + list[binaryPos]);
+                Console.WriteLine("Gefunden bei:" + binaryPos + ". Wert: " + list[binaryPos]);
             }
             else
             {
