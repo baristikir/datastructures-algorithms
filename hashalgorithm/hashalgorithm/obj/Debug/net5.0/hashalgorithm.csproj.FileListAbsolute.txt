@@ -1,0 +1,12 @@
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/bin/Debug/net5.0/hashalgorithm.deps.json
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/bin/Debug/net5.0/hashalgorithm.runtimeconfig.json
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/bin/Debug/net5.0/hashalgorithm.runtimeconfig.dev.json
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/bin/Debug/net5.0/hashalgorithm.dll
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/bin/Debug/net5.0/hashalgorithm.pdb
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/obj/Debug/net5.0/hashalgorithm.csprojAssemblyReference.cache
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/obj/Debug/net5.0/hashalgorithm.AssemblyInfoInputs.cache
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/obj/Debug/net5.0/hashalgorithm.AssemblyInfo.cs
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/obj/Debug/net5.0/hashalgorithm.csproj.CoreCompileInputs.cache
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/obj/Debug/net5.0/hashalgorithm.dll
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/obj/Debug/net5.0/hashalgorithm.pdb
+/Users/baristikir/datastructures-algorithms/hashalgorithm/hashalgorithm/obj/Debug/net5.0/hashalgorithm.genruntimeconfig.cache

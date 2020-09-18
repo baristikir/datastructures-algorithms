@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{ECB54AD7-41BC-4052-899B-4A81537038A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sortalgorithm-insertion/Program.cs">
+    <Files>
+      <File FileName="sortalgorithm-insertion/Program.cs" Line="22" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sortalgorithm-insertion" expanded="True">
+            <Node name="sortalgorithm-insertion" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.sortalgorithm-insertion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/Program.cs" relfile="sortalgorithm-insertion/Program.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

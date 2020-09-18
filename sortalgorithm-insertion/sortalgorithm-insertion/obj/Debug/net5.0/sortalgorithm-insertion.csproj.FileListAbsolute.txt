@@ -1,0 +1,12 @@
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/bin/Debug/net5.0/sortalgorithm-insertion.deps.json
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/bin/Debug/net5.0/sortalgorithm-insertion.runtimeconfig.json
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/bin/Debug/net5.0/sortalgorithm-insertion.runtimeconfig.dev.json
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/bin/Debug/net5.0/sortalgorithm-insertion.dll
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/bin/Debug/net5.0/sortalgorithm-insertion.pdb
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/obj/Debug/net5.0/sortalgorithm-insertion.csprojAssemblyReference.cache
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/obj/Debug/net5.0/sortalgorithm-insertion.AssemblyInfoInputs.cache
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/obj/Debug/net5.0/sortalgorithm-insertion.AssemblyInfo.cs
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/obj/Debug/net5.0/sortalgorithm-insertion.csproj.CoreCompileInputs.cache
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/obj/Debug/net5.0/sortalgorithm-insertion.dll
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/obj/Debug/net5.0/sortalgorithm-insertion.pdb
+/Users/baristikir/datastructures-algorithms/sortalgorithm-insertion/sortalgorithm-insertion/obj/Debug/net5.0/sortalgorithm-insertion.genruntimeconfig.cache
