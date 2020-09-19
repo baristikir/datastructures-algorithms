@@ -1,0 +1,4 @@
+/Users/baristikir/datastructures-algorithms/binary-tree/obj/Debug/net5.0/binary-tree.csprojAssemblyReference.cache
+/Users/baristikir/datastructures-algorithms/binary-tree/obj/Debug/net5.0/binary-tree.AssemblyInfoInputs.cache
+/Users/baristikir/datastructures-algorithms/binary-tree/obj/Debug/net5.0/binary-tree.AssemblyInfo.cs
+/Users/baristikir/datastructures-algorithms/binary-tree/obj/Debug/net5.0/binary-tree.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/bin/Debug/net5.0/searchalgorithm-arraycomplexsearch.deps.json
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/bin/Debug/net5.0/searchalgorithm-arraycomplexsearch.runtimeconfig.json
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/bin/Debug/net5.0/searchalgorithm-arraycomplexsearch.runtimeconfig.dev.json
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/bin/Debug/net5.0/searchalgorithm-arraycomplexsearch.dll
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/bin/Debug/net5.0/searchalgorithm-arraycomplexsearch.pdb
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/obj/Debug/net5.0/searchalgorithm-arraycomplexsearch.csprojAssemblyReference.cache
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/obj/Debug/net5.0/searchalgorithm-arraycomplexsearch.AssemblyInfoInputs.cache
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/obj/Debug/net5.0/searchalgorithm-arraycomplexsearch.AssemblyInfo.cs
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/obj/Debug/net5.0/searchalgorithm-arraycomplexsearch.csproj.CoreCompileInputs.cache
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/obj/Debug/net5.0/searchalgorithm-arraycomplexsearch.dll
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/obj/Debug/net5.0/searchalgorithm-arraycomplexsearch.pdb
+/Users/baristikir/datastructures-algorithms/searchalgorithm-arraycomplexsearch/searchalgorithm-arraycomplexsearch/obj/Debug/net5.0/searchalgorithm-arraycomplexsearch.genruntimeconfig.cache
